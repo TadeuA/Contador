@@ -1,0 +1,30 @@
+/*Base*/
+body{
+    background: #35f;
+    font: normal 15pt Arial;
+}
+
+header{
+    color:white;
+    text-align: center;
+}
+
+section{
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin:auto;
+    box-shadow: 3px 3px #000;
+}
+
+footer{
+    color:white;
+    text-align: center;
+    font-style: italic;
+}
+
+input{
+    margin-bottom: 10px;
+    height: 20px;
+}
